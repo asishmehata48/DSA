@@ -1,0 +1,54 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.elf
+*.map
+
+# Precompiled headers
+*.gch
+
+# Cscope files
+cscope.*
+ncscope.*
+
+# Tags files
+tags
+TAGS
+
+# Editor and IDE files
+*.swp
+*~
+.vscode/
+.idea/
+*.log
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Makefiles (optional, if generated)
+Makefile
+Makefile.in
+
+# Generated files
+*.dep
+*.d
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
