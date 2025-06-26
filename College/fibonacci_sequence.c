@@ -1,5 +1,4 @@
 #include<stdio.h>
-// Function to calculate Fibonacci sequence up to n terms
 #include<conio.h>
 int main(){
     int n, i;
